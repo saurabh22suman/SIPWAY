@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <button className="btn btn-secondary"  >Subscribe</button>
+      <button className="btn btn-secondary1"  >Subscribe</button>
     </div>
   );
 }
